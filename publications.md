@@ -1,3 +1,7 @@
+# 2021
+
+- Kai Spichale: <i>API Best Practices – Ein Praxisbericht der SAP Community"</>, betterCode(), 23.03.2021
+
 # 2018
 
 - Kai Spichale: <i>Integration Patterns for Microservices</i>, W-JAX, 07.11.2018
