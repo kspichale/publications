@@ -1,6 +1,6 @@
 # 2021
 
-- Kai Spichale: <i>API Best Practices – Ein Praxisbericht der SAP Community"</>, betterCode(), 23.03.2021
+- Kai Spichale: <i>API Best Practices – Ein Praxisbericht der SAP Community"</i>, betterCode(), 23.03.2021
 
 # 2018
 
